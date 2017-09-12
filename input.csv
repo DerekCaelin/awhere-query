@@ -1,3 +1,4 @@
+#sample input file. If you want to have other columns in your output file, make sure you include them in the output section of getthing.py
 Latitude,Longitude
 38.9072,77.0369
 38.9072,77.0369
